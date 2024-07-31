@@ -1,3 +1,10 @@
+export const navItems = [
+  { name: "About", link: "#about" },
+  { name: "Projects", link: "#projects" },
+  { name: "Testimonials", link: "#testimonials" },
+  { name: "Contact", link: "#contact" },
+];
+
 export const gridItems = [
     {
       id: 1,
@@ -61,3 +68,43 @@ export const gridItems = [
       spareImg: "",
     },
   ];
+
+  export const projects = [
+    {
+      id: 1,
+      sub : "COLO",
+      title: "COLO: Intelligent Property Rental System",
+      des: "Building a web application for apartment rentals using ASP.NET Core MVC. COLO provides machine learning models with ML.NET, offering features like recommendation systems, price prediction, and sentiment analysis.",
+      img: "/colo.png",
+      iconLists: ["/dot-net.svg", "/js.svg", "/html.svg", "/css.svg", "/ml.svg"],
+      link: "https://github.com/GhoAhmed/Colo",
+    },
+    {
+      id: 2,
+      sub : "Memory",
+      title: "Memory Game for kids",
+      des: "Developed an engaging memory game using Python with Pygame and Tkinter, enhancing problem-solving skills and user interaction.",
+      img: "/memory.png",
+      iconLists: ["/py.svg", "/py-game.svg", "/gd.svg"],
+      link: "https://github.com/GhoAhmed/memory_game",
+    },
+    {
+      id: 3,
+      sub : "Apple",
+      title: "Animated Apple Iphone 3D Website",
+      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      img: "/p4.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "https://github.com/GhoAhmed/apple_website",
+    },
+    {
+      id: 4,
+      sub : "MasterMind",
+      title: "AI CV Generator and Feedback Website",
+      des: "Created a website with React and Three.js for AI-based CV generation and feedback. The site rates CVs, provides notes, highlights errors, and offers improvement suggestions.",
+      img: "/bw.png",
+      iconLists: ["/re.svg", "/three.svg", "/gsap.svg", "/ai.svg", "/ml.svg"],
+      link: "https://github.com/GhoAhmed/brainwave",
+    },
+  ];
+  
