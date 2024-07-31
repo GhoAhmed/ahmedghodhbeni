@@ -2,6 +2,7 @@ export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
+  { name: "Experience", link: "#experience" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -76,7 +77,7 @@ export const gridItems = [
       title: "COLO: Intelligent Property Rental System",
       des: "Building a web application for apartment rentals using ASP.NET Core MVC. COLO provides machine learning models with ML.NET, offering features like recommendation systems, price prediction, and sentiment analysis.",
       img: "/colo.png",
-      iconLists: ["/dot-net.svg", "/js.svg", "/html.svg", "/css.svg", "/ml.svg"],
+      iconLists: ["/dot-net.svg", "/js.svg", "/html.svg", "/css.svg", "ai.svg", "/ml.svg"],
       link: "https://github.com/GhoAhmed/Colo",
     },
     {
@@ -103,7 +104,7 @@ export const gridItems = [
       title: "AI CV Generator and Feedback Website",
       des: "Created a website with React and Three.js for AI-based CV generation and feedback. The site rates CVs, provides notes, highlights errors, and offers improvement suggestions.",
       img: "/bw.png",
-      iconLists: ["/re.svg", "/three.svg", "/gsap.svg", "/ai.svg", "/ml.svg"],
+      iconLists: ["/re.svg", "tail.svg", "ts.svg", "/three.svg", "/gsap.svg", "/ai.svg", "/ml.svg"],
       link: "https://github.com/GhoAhmed/brainwave",
     },
   ];
@@ -167,4 +168,57 @@ export const gridItems = [
       nameImg: "/streamName.svg",
     },
   ];
+  
+  export const workExperience = [
+    {
+      id: 1,
+      title: "Full Stack Developer",
+      desc: "Developed a robust and convenient web application for e-commerce using ASP.NET Core for the backend and Angular for the frontend. Conception of intuitive interfaces and visual appearance.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 2,
+      title: "Web Developer",
+      desc: "Developed a dynamic website under WordPress, designed business cards, and produced a professional logo to ensure a coherent and attractive brand identity. Implemented custom features and plugins to meet specific client needs.",
+      className: "md:col-span-2",
+      thumbnail: "/exp2.svg",
+    },
+    {
+      id: 3,
+      title: "Backend Developer",
+      desc: "Designed and implemented interactive visualizations for various agriculture-related data sources. Developed a comprehensive dashboard processing large amounts of data to ensure accurate and up-to-date information for analysis.",
+      className: "md:col-span-2",
+      thumbnail: "/exp3.svg",
+    },
+    {
+      id: 4,
+      title: "End of Study Project Internship | Engineering cycle",
+      desc: "Created a web application for a real estate rental system. Integrated machine learning features such as recommendation, sentiment analysis, and price prediction, improving rental system functionality and user experience.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 5,
+      title: "Web Developer Intern",
+      desc: "Participated in the development of a static website using Bootstrap, Html/Css. Worked in a dynamic and collaborative environment to ensure high quality results and improved usability of the website.",
+      className: "md:col-span-2",
+      thumbnail: "/exp2.svg",
+    },
+    {
+      id: 6,
+      title: "Frontend Developer Intern",
+      desc: "Created attractive and user-friendly interfaces for a law firm web application. Used AdminLTE with Laravel, demonstrating strong frontend development skills to ensure a smooth user experience.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 7,
+      title: "End of Study Project Internship | Bachelor",
+      desc: "Led the development of key functionalities for a digital marketing platform using ASP.NET Core and Angular. Used SCRUM methodology to ensure efficient development, promoting collaboration and timely delivery.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+  ];
+  
   
