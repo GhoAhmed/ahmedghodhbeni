@@ -107,4 +107,64 @@ export const gridItems = [
       link: "https://github.com/GhoAhmed/brainwave",
     },
   ];
+
+  export const testimonials = [
+    {
+      quote:
+        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+      name: "Echedli El Haj Ali",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+      name: "Anouar Mansouri",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+      name: "Safe Jemai",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+      name: "Salah Ghodhbeni",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+    },
+  ];
+
+  export const companies = [
+    {
+      id: 1,
+      name: "CDF Center",
+      img: "/cdf.png",
+      nameImg: "/cloudName.svg",
+    },
+    {
+      id: 2,
+      name: "Vikonnekt",
+      img: "/vikonnekt.png",
+      nameImg: "/appName.svg",
+    },
+    {
+      id: 3,
+      name: "Com&Dev",
+      img: "/com-dev.png",
+      nameImg: "/hostName.svg",
+    },
+    {
+      id: 4,
+      name: "GIZ",
+      img: "/giz.png",
+      nameImg: "/streamName.svg",
+    },
+  ];
   
