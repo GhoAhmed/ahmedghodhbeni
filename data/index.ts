@@ -221,4 +221,21 @@ export const gridItems = [
     },
   ];
   
+  export const socialMedia = [
+    {
+      id: 1,
+      img: "/git.svg",
+      link: "https://github.com/GhoAhmed",
+    },
+    {
+      id: 2,
+      img: "/link.svg",
+      link: "https://www.linkedin.com/in/ahmedghodhbeni/",
+    },
+    {
+      id: 3,
+      img: "/twit.svg",
+      link: "https://x.com/ahmed_ghodhbeni",
+    },
+  ];
   
