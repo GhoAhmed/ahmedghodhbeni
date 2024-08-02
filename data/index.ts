@@ -77,7 +77,7 @@ export const gridItems = [
       title: "COLO: Intelligent Property Rental System",
       des: "Building a web application for apartment rentals using ASP.NET Core MVC. COLO provides machine learning models with ML.NET, offering features like recommendation systems, price prediction, and sentiment analysis.",
       img: "./colo.png",
-      iconLists: ["./dot-net.svg", "./js.svg", "./html.svg", "./css.svg", ".ai.svg", "./ml.svg"],
+      iconLists: ["./dot-net.svg", "./js.svg", "./html.svg", "./css.svg", "./ai.svg", "./ml.svg"],
       link: "https://github.com/GhoAhmed/Colo",
     },
     {
@@ -104,7 +104,7 @@ export const gridItems = [
       title: "AI CV Generator and Feedback Website",
       des: "Created a website with React and Three.js for AI-based CV generation and feedback. The site rates CVs, provides notes, highlights errors, and offers improvement suggestions.",
       img: "./bw.png",
-      iconLists: ["./re.svg", ".tail.svg", ".ts.svg", "./three.svg", "./gsap.svg", "./ai.svg", "./ml.svg"],
+      iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg", "./ai.svg", "./ml.svg"],
       link: "https://github.com/GhoAhmed/brainwave",
     },
   ];
