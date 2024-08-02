@@ -103,7 +103,7 @@ export const gridItems = [
       sub : "MasterMind",
       title: "AI CV Generator and Feedback Website",
       des: "Created a website with React and Three.js for AI-based CV generation and feedback. The site rates CVs, provides notes, highlights errors, and offers improvement suggestions.",
-      img: "./bw.png",
+      img: "./bw.PNG",
       iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg", "./ai.svg", "./ml.svg"],
       link: "https://github.com/GhoAhmed/brainwave",
     },
@@ -112,33 +112,31 @@ export const gridItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
-      name: "Echedli El Haj Ali",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+        "Ahmed's professionalism and dedication were key to the success of our COLO project. His technical expertise and enthusiasm for development were evident throughout. If you're seeking to elevate your website and brand, Ahmed is the ideal partner.",
       name: "Anouar Mansouri",
-      title: "Director of AlphaStream Technologies",
+      title: "CEO Com and Dev",
+      img: "./defaultP.jpg",
     },
     {
       quote:
-        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
-      name: "Safe Jemai",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
+        "Ahmed's professionalism, punctuality, and dedication to delivering exceptional results were evident throughout our project. His enthusiasm for every facet of development truly stands out. I highly recommend Ahmed for any development project.",
       name: "Salah Ghodhbeni",
-      title: "Director of AlphaStream Technologies",
+      title: "IT Professor",
+      img: "./defaultP.jpg",
     },
     {
       quote:
-        "Collaborating with Ahmed was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahmed's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahmed is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Ahmed's work on our WordPress website was outstanding. His professionalism and promptness, coupled with his dedication to delivering exceptional results, were impressive. Ahmed's passion for development is truly remarkable.",
+      name: "Safe Jemai",
+      title: "CEO & Founder Víkonnekt",
+      img: "./safa.png",
+    },
+    {
+      quote:
+        "Working with Ahmed on the CDF projects, including the law firm application and agriculture dashboard, was a pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout. Ahmed's enthusiasm for every facet of development truly stands out.",
+      name: "Chedli El Haj Ali",
+      title: "Senior Full Stack Consultant .Net/C#",
+      img: "./chedli.png",
     },
   ];
 
